@@ -120,7 +120,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Educación',
-            image: './assets/educacion.JPEG',
+            image: './assets/educacion.png',
             description: 'Las provincias con mayor porcentaje de su población que no asistió nunca a una institución educativa son Formosa (8,17%), Misiones (8,15%) y Chaco (7,97%).',
             location: {
                 center: [-68.73058, -36.88078],
