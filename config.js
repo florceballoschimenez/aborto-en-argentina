@@ -55,7 +55,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Cantidad de abortos por provincias',
-            image: './assets/abortosporanio.jpg',
+            image: './assets/abortosporanio.JPG',
             description: 'Los datos muestran un crecimiento sostenido en casi todas las provincias argentinas, con estabilizaciones o descensos parciales en algunas jurisdicciones a partir de 2023. También se observa una fuerte disparidad territorial: provincias con sistemas sanitarios más robustos o con mayor disponibilidad de servicios registran cifras más altas.',
             location: {
                 center: [-58.54195, -34.71600],
@@ -120,7 +120,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Educación',
-            image: './assets/educacion.jpg',
+            image: './assets/educacion.JPG',
             description: 'Las provincias con mayor porcentaje de su población que no asistió nunca a una institución educativa son Formosa (8,17%), Misiones (8,15%) y Chaco (7,97%).',
             location: {
                 center: [-68.73058, -36.88078],
@@ -197,7 +197,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'ELA',
-            image: './assets/ela.jpg',
+            image: './assets/ela.JPG',
             description: 'Según el Equipo Latinoamericano de Justicia y Género (ELA), en provincias como Misiones y Corrientes persisten demoras en los procesos de IVE. La organización también señala falta de claridad en las rutas de atención, uso inadecuado de la objeción de conciencia, desigualdades territoriales en el acceso y escasa información sobre métodos anticonceptivos, entre otros obstáculos. ',
             location: {
                 center: [-58.54195, -34.71600],
