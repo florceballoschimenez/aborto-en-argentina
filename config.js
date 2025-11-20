@@ -55,7 +55,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Cantidad de abortos por provincias',
-            image: './assets/abortosporanio.JPEG',
+            image: './assets/abortosporanio.JPG',
             description: 'Los datos muestran un crecimiento sostenido en casi todas las provincias argentinas, con estabilizaciones o descensos parciales en algunas jurisdicciones a partir de 2023. También se observa una fuerte disparidad territorial: provincias con sistemas sanitarios más robustos o con mayor disponibilidad de servicios registran cifras más altas.',
             location: {
                 center: [-58.54195, -34.71600],
