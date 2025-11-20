@@ -60,7 +60,7 @@ var config = {
             location: {
                 center: [-58.54195, -34.71600],
                 zoom: 8.5,
-                pitch: 60,
+                pitch: 0,
                 bearing: -43.2,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
