@@ -197,7 +197,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'ELA',
-            image: './assets/dos.jpg',
+            image: './assets/ELA.jpeg',
             description: 'Según el Equipo Latinoamericano de Justicia y Género (ELA), en provincias como Misiones y Corrientes persisten demoras en los procesos de IVE. La organización también señala falta de claridad en las rutas de atención, uso inadecuado de la objeción de conciencia, desigualdades territoriales en el acceso y escasa información sobre métodos anticonceptivos, entre otros obstáculos. ',
             location: {
                 center: [-58.54195, -34.71600],
